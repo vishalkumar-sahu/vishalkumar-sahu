@@ -16,7 +16,6 @@
 - ⚡ 𝙵𝚞𝚗 𝚏𝚊𝚌𝚝 : **𝙱𝚎𝚜𝚝 𝙿𝚊𝚛𝚝 𝙾𝚏 𝚃𝚑𝚎 𝙹𝚘𝚞𝚛𝚗𝚎𝚢 𝙸𝚜 : *𝙸𝚝 𝙴𝚗𝚍𝚜.***
 
 <br/>
-<br/>
 
 #
 
@@ -25,17 +24,20 @@
   <img src="https://raw.githubusercontent.com/milaan9/milaan9/main/Handshake.gif" height="25px">
 </h3>
 
-- 📫 vishalkumar.sahu04@gmail.com
+<!--  - 📫 vishalkumar.sahu04@gmail.com -->
 
 <p align="center">
-  <br>
+  <!-- <br> -->
+  <a href="mailto:vishalkumar.sahu04@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></code>
+  </a>
   <a href="https://www.linkedin.com/in/vishal-kumar-sahu/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></code>
   </a>
-<!-- </p> -->
+ </p>
 <!-- <br/> -->
 
-<!-- <p align="center"> -->
+<!-- <p align="center"> 
   
   <a href="https://codeforces.com/profile/vishal_sahu" target="_blank">
     <img src="https://img.shields.io/badge/Codeforces-445f9d?style=for-the-badge&logo=Codeforces&logoColor=white"/></code>
@@ -44,6 +46,8 @@
   <a href="https://leetcode.com/user8040Co/" target="_blank">
     <img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black"/></code>
   </a>
+  
+ -->
 </p>
 
 
